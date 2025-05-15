@@ -607,13 +607,6 @@
 |search|bed|
 
 
-### 🔑 Authentication bearer
-
-|Param|value|Type|
-|---|---|---|
-|token|{{usertoken}}|string|
-
-
 ### Response: 200
 ```json
 {
